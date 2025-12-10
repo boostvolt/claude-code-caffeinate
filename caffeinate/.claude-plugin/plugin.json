@@ -1,0 +1,8 @@
+{
+  "name": "caffeinate",
+  "description": "Prevents your Mac from sleeping while Claude Code is working",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Kott"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-caffeinate",
+  "metadata": {
+    "description": "Prevents your Mac from sleeping while Claude Code is working",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Jan Kott"
+  },
+  "plugins": [
+    {
+      "name": "caffeinate",
+      "version": "1.0.0",
+      "source": "./caffeinate",
+      "description": "Prevents your Mac from sleeping while Claude Code is working",
+      "category": "utility",
+      "tags": ["macos", "sleep", "caffeinate"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    }
+  ]
+}
